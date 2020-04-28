@@ -30,6 +30,7 @@
    },
    "patients":[
       {
+         "id":1,
          "firstname":"Tlotliso",
          "lastname":"Mafantiri",
          "phone":"57683501",
@@ -37,6 +38,7 @@
          "score":5
       },
       {
+         "id":2,
          "firstname":"Mike",
          "lastname":"Fanta",
          "phone":"58541234",
@@ -44,6 +46,7 @@
          "score":2
       },
       {
+         "id":3,
          "firstname":"Tman",
          "lastname":"Moola",
          "phone":"631234556",
