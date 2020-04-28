@@ -10,5 +10,28 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "patients": [
+    {
+      "firstname": "Tlotliso",
+      "lastname": "Mafantiri",
+      "phone": "57683501",
+      "address": "Habo Chelete",
+      "score": 5
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Fanta",
+      "phone": "58541234",
+      "address": "New York",
+      "score": 2
+    },
+    {
+      "firstname": "Tman",
+      "lastname": "Moola",
+      "phone": "631234556",
+      "address": "Hills View",
+      "score": 10
+    },
+  ]
 }
