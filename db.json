@@ -1,37 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "patients": [
-    {
-      "firstname": "Tlotliso",
-      "lastname": "Mafantiri",
-      "phone": "57683501",
-      "address": "Habo Chelete",
-      "score": 5
-    },
-    {
-      "firstname": "Mike",
-      "lastname": "Fanta",
-      "phone": "58541234",
-      "address": "New York",
-      "score": 2
-    },
-    {
-      "firstname": "Tman",
-      "lastname": "Moola",
-      "phone": "631234556",
-      "address": "Hills View",
-      "score": 10
-    },
-  ]
+   "posts":[
+      {
+         "id":1,
+         "title":"Post 1"
+      },
+      {
+         "id":2,
+         "title":"Post 2"
+      },
+      {
+         "id":3,
+         "title":"Post 3"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "patients":[
+      {
+         "firstname":"Tlotliso",
+         "lastname":"Mafantiri",
+         "phone":"57683501",
+         "address":"Habo Chelete",
+         "score":5
+      },
+      {
+         "firstname":"Mike",
+         "lastname":"Fanta",
+         "phone":"58541234",
+         "address":"New York",
+         "score":2
+      },
+      {
+         "firstname":"Tman",
+         "lastname":"Moola",
+         "phone":"631234556",
+         "address":"Hills View",
+         "score":10
+      }
+   ]
 }
