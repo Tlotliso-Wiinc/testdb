@@ -52,6 +52,14 @@
          "phone":"631234556",
          "address":"Hills View",
          "score":10
+      },
+      {
+         "id":4,
+         "firstname":"Liepe",
+         "lastname":"Mafa",
+         "phone":"+271234556",
+         "address":"Worlth",
+         "score":1
       }
    ]
 }
